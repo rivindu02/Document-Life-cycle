@@ -28,6 +28,9 @@ A Python-based implementation of a document management system using the **State 
 | **Archived** | Restore | ADMIN | Draft |
 
 ---
+## PlantUML Diagram
+![Alt Text](plantuml.png)
+---
 
 ## 💻 Usage
 
